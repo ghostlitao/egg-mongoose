@@ -13,13 +13,12 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "@types/mongoose": "^5.3.24",
     "await-first": "^1.0.0",
-    "mongoose": "^5.10.9"
+    "mongoose": "^6.2.3"
   },
   "devDependencies": {
     "autod": "^3.0.1",
-    "bluebird": "^3.5.1",
+    "bluebird": "^3.7.2",
     "dotenv": "^7.0.0",
     "egg": "^2.20.2",
     "egg-bin": "^4.9.0",
